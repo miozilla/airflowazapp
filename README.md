@@ -1,4 +1,4 @@
-# airflowazapp
+# airflowazapp :recycle:
 airflowazapp : #airflow #azure_web_app
 
 ## Apache Airflow on Azure Container App
